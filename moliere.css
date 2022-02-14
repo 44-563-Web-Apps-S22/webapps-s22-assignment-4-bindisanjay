@@ -29,3 +29,16 @@
 .Tartuffe{
     color: blue;
 }
+
+.table,th,td{
+    border: 1px solid;
+    text-align: center;
+    color: black;
+    padding: 30px;
+    margin: 30px;
+    
+}
+
+.tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
