@@ -1,0 +1,31 @@
+.speech {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.direction{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    background-color: beige;
+}
+
+.name {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.direction:hover{
+    background-color: skyblue;
+    color: orange;
+}
+
+.Elmire{
+    color: red;
+}
+
+.Tartuffe{
+    color: blue;
+}
