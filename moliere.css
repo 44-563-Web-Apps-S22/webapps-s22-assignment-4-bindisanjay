@@ -17,6 +17,10 @@
     color: black;
 }
 
+.name:hover{
+    text-shadow:2px 3px 5px rgb(10, 231, 65)
+}
+
 .direction:hover{
     background-color: skyblue;
     color: orange;
