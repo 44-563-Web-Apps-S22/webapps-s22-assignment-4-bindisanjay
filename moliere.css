@@ -18,7 +18,8 @@
 }
 
 .name:hover{
-    text-shadow:2px 3px 5px rgb(10, 231, 65)
+    text-shadow:2px 3px 5px rgb(10, 231, 65) ;
+    border: 2px solid mediumslateblue;
 }
 
 .direction:hover{
@@ -37,7 +38,7 @@
 .table,th,td{
     border: 1px solid;
     text-align: center;
-    color: black;
+    color: rgb(74, 90, 100);
     padding: 30px;
     margin: 30px;
     
@@ -45,4 +46,5 @@
 
 .tr:nth-child(even) {
     background-color: #f2f2f2;
+    color: aquamarine;
   }
