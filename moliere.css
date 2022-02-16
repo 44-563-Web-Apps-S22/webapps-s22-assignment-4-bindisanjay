@@ -45,6 +45,28 @@
 }
 
 .tr:nth-child(even) {
-    background-color: #f2f2f2;
+    background-color: #fd7d7d;
     color: aquamarine;
   }
+
+  ul.navbar-horizontal{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li{
+    float:left; 
+    color:#000;
+    background-color:yellow;
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+}
+ul.navbar-horizontal a:hover {  
+    background-color: #555;
+    color:white;
+}
+.icon{
+    float:center;
+}
